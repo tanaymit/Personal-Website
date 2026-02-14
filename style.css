@@ -169,14 +169,14 @@ img {
   z-index: 1;
   display: flex;
   align-items: center;
-  gap: 3.5rem;
-  max-width: 900px;
+  gap: 4.5rem;
+  max-width: 1050px;
   width: 100%;
 }
 
 .hero-photo {
-  width: 220px;
-  height: 220px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   overflow: hidden;
   flex-shrink: 0;
@@ -189,7 +189,7 @@ img {
   height: 100%;
   object-fit: cover;
   object-position: 40% center;
-  transform: scale(1.15);
+  transform: scale(1.35);
 }
 
 .hero-text {
