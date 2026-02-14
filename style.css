@@ -169,8 +169,9 @@ img {
   z-index: 1;
   display: flex;
   align-items: center;
-  gap: 4.5rem;
-  max-width: 1050px;
+  justify-content: center;
+  gap: 4rem;
+  max-width: 960px;
   width: 100%;
 }
 
@@ -228,7 +229,6 @@ img {
   color: var(--text-light);
   line-height: 1.8;
   margin-bottom: 2rem;
-  max-width: 560px;
 }
 
 .hero-cta {
